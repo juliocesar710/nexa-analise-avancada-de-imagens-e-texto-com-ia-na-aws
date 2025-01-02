@@ -28,7 +28,7 @@ Este projeto demonstra como utilizar o Amazon Textract para extrair texto, tabel
 3. Envie seus documentos para o bucket do Amazon S3.
 4. Execute o script para processar os documentos e salvar os resultados em CSV ou JSON.
 
-##💡 Insights e Aprendizados
+## 💡 Insights e Aprendizados
 - Automação de Decisões Simples: Foi possível criar regras de negócio para validar documentos, como checar campos obrigatórios ou calcular totais automaticamente.
 - Precisão na Extração de Dados: O Amazon Textract demonstrou alta eficiência ao lidar com documentos complexos, extraindo tabelas e campos-chave com precisão.
 - Redução de Tempo e Esforço: Processos manuais que antes levavam horas foram reduzidos a minutos com automação.
