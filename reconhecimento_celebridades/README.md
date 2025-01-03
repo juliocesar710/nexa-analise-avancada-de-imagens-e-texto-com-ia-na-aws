@@ -107,7 +107,7 @@ print(response)
 
 Adicione capturas de tela do processo ou resultados aqui:
 
-![Resultados do Projeto](./reconhecimento_celebridadas/images/bbc-resultado.jpg)
+![Resultados do Projeto](./images/bbc-resultado.jpg)
 
 ## **Contribuição**
 
