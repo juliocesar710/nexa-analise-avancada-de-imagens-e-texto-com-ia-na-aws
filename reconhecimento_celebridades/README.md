@@ -1,6 +1,6 @@
 # Reconhecimento de Celebridades com Amazon Rekognition
 
-![Workflow Overview](https://example.com/hero-image.jpg)
+![Workflow Overview](https://miro.medium.com/v2/resize:fit:600/1*0W3bY_v4cor_SC-rx0rA3A.png)
 
 ## **Visão Geral**
 
